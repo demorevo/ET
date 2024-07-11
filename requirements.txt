@@ -4,3 +4,4 @@ openai==0.28.0
 gtts==2.3.0
 pydub==0.25.1
 pygame==2.4.0
+pyaudio
